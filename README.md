@@ -1,5 +1,5 @@
-# wireConnection
-Technology specific amendments to the Link and the ForwardingConstruct classes for documenting connections according to IEEE802.3.
+# wireFc
+Technology specific amendment to the ForwardingConstruct class for documenting actual forwarding according to IEEE802.3.
 
 ### Branch
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
@@ -40,7 +40,7 @@ Technology specific amendments to the Link and the ForwardingConstruct classes f
 
 ### Open Issue List
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [wireConnection/issues](../../issues)
+- [wireFc/issues](../../issues)
 
 ### Comments
 ./.
